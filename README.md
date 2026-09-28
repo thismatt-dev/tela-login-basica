@@ -15,7 +15,7 @@
 
 ---
 
-Desktop/TV:
+- Desktop/TV:
 
 <img width="1493" height="623" alt="image" src="https://github.com/user-attachments/assets/037e07e1-7d2a-4401-a29a-6da1e2d4d9b3" />
 
