@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+/* Paleta de Cores 
+
+Cor Primária: #332F40
+Cor 2: #454A59
+Cor 3: #141A26
+Cor 4: #88A5BF
+Cor 5: #255959
+
+*/
+
+* {
+    font-family: -Apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: #332F40;
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+
+    background-color: white;
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.418);
+}
+
+section#login > div#imagem {
+    display: block;
+    background: #454A59 url(../imagens/tela-login.jpg) no-repeat;
+    background-size: cover;
+    background-position: left bottom;
+    height: 200px;
+}
+
+section#login > div#formulario {
+    display: block;
+    padding: 20px;
+}
