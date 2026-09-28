@@ -1,6 +1,6 @@
 # Tela de login aplicando o uso de media queries
 
-## Teste o projeto [Aqui!](https://github.com/thismatt-dev/tela-login-basica.git)
+## Teste o projeto [Aqui!](https://thismatt-dev.github.io/tela-login-basica/)
 
 ### Respectivas telas
 - Mobile:
